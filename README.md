@@ -1,7 +1,7 @@
 # CSX_course
 #HW1
-  認識91APP資料
-  https://github.com/superAwhite/CSX_course/tree/master/HW1
+  - 認識91APP資料
+  - https://github.com/superAwhite/CSX_course/tree/master/HW1
 
 #HW2
   網路爬蟲:驗證氣溫與購買商品的關係

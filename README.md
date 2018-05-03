@@ -19,3 +19,6 @@
   - tfidf:分析財報
   - https://github.com/superAwhite/CSX_course/blob/master/HW5/tfidf.ipynb
 
+## project2(小組作業)
+  - 利用PCA做鐵達尼號生還分析
+  - https://github.com/liansin/Class_CSX/tree/master/week8

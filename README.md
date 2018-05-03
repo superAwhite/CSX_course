@@ -15,7 +15,7 @@
   文字雲:借由學生打工網的FB 找近期的產業職缺與地區
   https://github.com/superAwhite/CSX_course/blob/master/HW4/HW4.ipynb
 
-#HW5
+#HW5+project1
   tfidf:分析財報
   https://github.com/superAwhite/CSX_course/blob/master/HW5/tfidf.ipynb
 

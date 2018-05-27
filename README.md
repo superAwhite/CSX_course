@@ -20,5 +20,17 @@
   - https://github.com/superAwhite/CSX_course/blob/master/HW5/tfidf.ipynb
 
 ## project2(小組作業)
-- 利用PCA做鐵達尼號生還分析
+ - 利用PCA做鐵達尼號生還分析
  - https://github.com/liansin/Class_CSX/tree/master/week8
+
+## project3(小組作業)
+ - Linear Regression & ANOVA
+ - use Teacher.csv data
+ - Try to use data to analysis
+ - https://github.com/liansin/Class_CSX/blob/master/week9/HW9.ipynb
+ 
+## project4(小組作業)
+- Apriori
+- use 91App data
+- Try to use data to find some related items .
+- https://github.com/liansin/Class_CSX/blob/master/week10/project4.ipynb

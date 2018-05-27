@@ -36,5 +36,5 @@
 - https://github.com/liansin/Class_CSX/blob/master/week10/project4.ipynb
 
 ## final project
-- data clean1 : https://github.com/superAwhite/CSX_course/blob/master/final/final.ipynb
+- [data clean1]https://github.com/superAwhite/CSX_course/blob/master/final/final.ipynb :
 - clean garbled text of the City

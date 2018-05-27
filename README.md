@@ -34,3 +34,6 @@
 - use 91App data
 - Try to use data to find some related items .
 - https://github.com/liansin/Class_CSX/blob/master/week10/project4.ipynb
+
+## final project
+- data clean1 : clean garbled text of the City

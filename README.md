@@ -37,3 +37,6 @@
 
 ## final project(小組作業)
 - [data clean1](https://github.com/superAwhite/CSX_course/blob/master/final/final.ipynb) : clean garbled text of the City
+- [data clean2](https://github.com/superAwhite/CSX_course/blob/master/final/clean_cityUnite.ipynb) : 新舊制六都整合
+- [climate web crawler1](https://github.com/superAwhite/CSX_course/blob/master/final/climate1_getStationInfo.ipynb) : get station info.
+- [climate web crawler2](https://github.com/superAwhite/CSX_course/blob/master/final/climate2_getClimate.ipynb) : get climate data

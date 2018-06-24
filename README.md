@@ -40,3 +40,5 @@
 - [data clean2](https://github.com/superAwhite/CSX_course/blob/master/final/clean_cityUnite.ipynb) : 新舊制六都整合
 - [climate web crawler1](https://github.com/superAwhite/CSX_course/blob/master/final/climate1_getStationInfo.ipynb) : get station info.
 - [climate web crawler2](https://github.com/superAwhite/CSX_course/blob/master/final/climate2_getClimate.ipynb) : get climate data
+- [cleaning an organization](https://github.com/liansin/Class_CSX/blob/master/Final/Final_project.ipynb)
+- [Machine Learning-LSTM RNN](https://github.com/liansin/Class_CSX/blob/master/Final/RNN_Final_Project.ipynb) : using Long Short Term Memory to training

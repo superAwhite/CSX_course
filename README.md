@@ -1,4 +1,5 @@
 # CSX_course
+### [課程網址](https://pecu.gitbooks.io/python_/content/)
 ## HW1
   - 認識91APP資料
   - https://github.com/superAwhite/CSX_course/tree/master/HW1
